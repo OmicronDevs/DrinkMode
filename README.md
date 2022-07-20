@@ -1,0 +1,2 @@
+# DrinkMode
+Simple VisualBasic reminder.
