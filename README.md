@@ -1,4 +1,5 @@
 # 🥛 DrinkMode
+run.bat is key to sucess! :)
 # PRE-RELEASE!
 
 `🟢 This release is up to date`
