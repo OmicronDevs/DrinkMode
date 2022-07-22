@@ -21,7 +21,6 @@ Call :Color 03 "                              Current Version/Branch: "
 Call :Color 13 "Pre-Release"
 echo.
 echo.
-
 goto main
 
 :Color
