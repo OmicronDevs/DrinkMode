@@ -1,5 +1,5 @@
 # 🥛 DrinkMode
-run.bat is key to sucess! :)
+Updated release <a href="https://github.com/OmicronDevs/DrinkMode/tree/release-1">here</a>
 # PRE-RELEASE!
 
 `🟣 This release is out of date`
