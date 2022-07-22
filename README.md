@@ -2,7 +2,7 @@
 run.bat is key to sucess! :)
 # PRE-RELEASE!
 
-`🟢 This release is up to date`
+`🟣 This release is out of date`
 
 ```
 🟢 Release up to date
