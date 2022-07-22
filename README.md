@@ -1,5 +1,6 @@
-# 🥛 DrinkMode
-run.bat is key to sucess! :)
+# 🥛 DrinkMode 1.0
+
+This release took me long to make, please star this git :)
 # PRE-RELEASE!
 
 `🟢 This release is up to date`
